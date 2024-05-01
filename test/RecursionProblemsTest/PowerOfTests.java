@@ -1,4 +1,4 @@
-package GraphingProblemsTests;
+package RecursionProblemsTest;
 
 import org.junit.Test;
 
