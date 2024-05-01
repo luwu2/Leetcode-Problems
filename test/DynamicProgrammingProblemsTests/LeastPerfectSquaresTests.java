@@ -1,7 +1,6 @@
 package DynamicProgrammingProblemsTests;
 
 import DynamicProgrammingProblems.LeastPerfectSquares;
-import SortingProblems.ContainerWithMostWater;
 import org.junit.Test;
 
 import static DynamicProgrammingProblems.LeastPerfectSquares.numSquares;
