@@ -1,4 +1,4 @@
-package DynamicProgrammingTests;
+package DynamicProgrammingProblemsTests;
 
 import org.junit.Test;
 
